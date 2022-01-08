@@ -1,1 +1,1 @@
-# Data-Science
+# Netflix EDA
